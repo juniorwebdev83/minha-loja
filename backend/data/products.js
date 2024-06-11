@@ -71,6 +71,18 @@ const products = [
     rating: 4,
     numReviews: 12,
   },
+  {
+    name: 'Book- Adversity amidst Faith',
+    image: '/images/book.jpg',
+    description:
+      "As the world is gripped by the COVID-19 pandemic, a painter faces unprecedented challenges both at work and in life. Balancing the strain of leading his crew under a scorching sun with the financial pressures of a dwindling business, he must also confront an inner voice forewarning of greater adversities ahead. Amidst the chaos and uncertainty, he discovers a newfound strength and an unwavering faith that guide him through the darkest times. This gripping narrative captures the resilience of the human spirit and the power of faith in overcoming life's greatest trials.",
+    brand: 'Original',
+    category: 'Literature',
+    price: 10,
+    countInStock: 300,
+    rating: 5,
+    numReviews: 13,
+  },
 ];
 
 export default products;
